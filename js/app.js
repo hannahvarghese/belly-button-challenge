@@ -61,7 +61,7 @@ const barChart = (sample) => {
         y: y_ticks,
         type: "bar",
         orientation: "h"
-    };
+    }; 
 
         let layout = {
             title: "Top 10 OTU IDs Bar Graph",
